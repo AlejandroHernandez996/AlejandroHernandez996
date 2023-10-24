@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlejandroHernandez996
-- 🌱 I’m currently working on my own indie game xyzrts.com
+- 🌱 I’m currently working on my own indie game https://xyzrts.com
 - 📫 How to reach me jandro@xyzts.com
 
 <!---
